@@ -1,5 +1,5 @@
-# PlanearDiaApp
+# Planear Día Android Application
 
-Aplicacion con uso Google Places, Google Maps
+Android Application with Google Places, Google Maps.
 
 [Video Tutorial](https://alvarez.tech/videos/android/app-planear-dia/)
